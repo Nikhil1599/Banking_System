@@ -1,0 +1,1 @@
+Set Database name to banking_management_system
